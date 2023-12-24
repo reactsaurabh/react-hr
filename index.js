@@ -9,6 +9,6 @@ const data={
     date:DATE
 }
 jsonfile.writeFile(FILE_PATH,data)
-//asd
+//asdsdfd
 
 simpleGit().add([FILE_PATH]).commit(DATE,{'--date':DATE}).push()
